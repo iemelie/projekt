@@ -8,7 +8,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 
 ## Live links (replace with your own)
 - Leafleat Map https://iemelie.github.io/projekt/
-- Google Sheets translate https://docs.google.com/spreadsheets/d/1l5WQSWXoZ2iCqIPaZKbUIWyVCA44WYeF6UwQ1-ONQK8/edit#gid=0
+- Google Sheets Translate https://docs.google.com/spreadsheets/d/1l5WQSWXoZ2iCqIPaZKbUIWyVCA44WYeF6UwQ1-ONQK8/edit#gid=0
 
 ## Create Your Own
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
